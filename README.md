@@ -47,19 +47,19 @@ Electron with JavaScript, CSS, and HTML for intuitive user experience and dashbo
 ## ⚙️ Installation Instructions
 Clone the repository
 
-```python
+```bash
 git clone https://github.com/janaedooley0/TaskTrekker.git
 cd TaskTrekker
 ```
 Install dependencies
 
 For Node.js/Electron dependencies:
-```python
+```bash
 npm install
 ```
 For Python dependencies:
 
-```python
+```bash
 pip install pandas
 ```
 Start the Electron app
